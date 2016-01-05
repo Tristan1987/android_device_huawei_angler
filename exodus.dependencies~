@@ -1,0 +1,10 @@
++[
++  {
++    "repository": "Exodus-Kernels/huawei_angler",
++    "target_path": "kernel/huawei/angler"
++  },
++  {
++    "repository": "Exodus-Vendors/huawei_angler",
++    "target_path": "vendor/huawei/angler"
++  }
++]

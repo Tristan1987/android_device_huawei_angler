@@ -14,5 +14,7 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_angler-userdebug
-add_lunch_combo cm_angler-userdebug
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/aosp_angler.mk
+    $(LOCAL_DIR)/bt_angler.mk \
+    $(LOCAL_DIR)/cm_angler.mk
