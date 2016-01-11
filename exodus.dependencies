@@ -1,10 +1,10 @@
 [
   {
     "repository": "Tristan1987/android_kernel_huawei_angler",
-    "target_path": "kernel/moto/angler"
+    "target_path": "kernel/huawei/angler"
   },
   {
     "repository": "Tristan1987/huawei_angler",
-    "target_path": "vendor/motorola/angler"
+    "target_path": "vendor/huawei/angler"
   }
 ]
